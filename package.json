@@ -1,0 +1,16 @@
+{
+  "name": "predicitioner",
+  "version": "0.0.1",
+  "description": "Self Organizing Maps to predict market movements on cryptocurrencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adriano Pais Rodrigues",
+  "license": "ISC",
+  "dependencies": {
+    "read-last-lines": "^1.6.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  }
+}

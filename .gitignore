@@ -1,0 +1,7 @@
+history_*
+btc*.sql
+images/*
+node_modules
+.vscode
+
+
